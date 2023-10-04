@@ -2,7 +2,7 @@
 
 #Работа с GIT
 
-<p align="center"><img src="https://static.wikia.nocookie.net/sawfilms/images/3/35/141042.jpg/revision/latest?cb=20161025204528" width = "350"></p>
+<p align="center"><img src="https://pics.livejournal.com/babajo_47/pic/001c9aq3/s640x480" width = "350"></p>
 
 <p><a href="https://ru.freepik.com/premium-photo/a-cat-driving-a-toy-car-with-the-word-cat-on-it_46786772.htm">ссылочка</a></p>
 
